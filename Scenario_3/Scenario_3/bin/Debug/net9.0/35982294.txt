@@ -1,11 +1,1 @@
-Student Number:35982294
-Student Name:Sumedha
 
-Marks:80 80 80 80 80 95 
-Average: 82.50
-Result: The student has passed!
-
-
-Updated Marks:80 80 80 80 80 80 
-Average: 80.00
-Result: The student has passed!
