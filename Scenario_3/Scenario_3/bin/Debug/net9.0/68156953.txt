@@ -1,6 +1,1 @@
-Student Number:68156953
-Student Name:Aayush
 
-Marks:60 70 80 90 50 55 
-Average: 67.50
-Result: The student has passed!
